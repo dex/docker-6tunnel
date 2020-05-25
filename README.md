@@ -1,6 +1,6 @@
 # docker-6tunnel
 
-Docker image for 6tunnel (IPv6 &lt;-> IPv4 tunnel)
+Docker image for 6tunnel (IPv6 &lt;-> IPv4 tunnel) with IPv6-only support
 
 This docker image provides a 6tunnel server installation.
 
